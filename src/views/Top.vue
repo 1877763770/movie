@@ -171,7 +171,7 @@
                                                 </div>
                                                 <div style="margin-top:-21px;argin-left:120px;margin-left:130px">
                                                     <a style="color:#b88b1f">8.8</a>
-                                                    &nbsp;(123358人评价）
+                                                    &nbsp;(123358人评价.）
                                                 </div>
                                             </el-col>
 
